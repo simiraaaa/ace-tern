@@ -1,0 +1,28 @@
+{
+  "name": "ace-tern",
+  "version": "0.0.1",
+  "description": "Tern is a stand-alone code-analysis engine for JavaScript. this plugin for ace editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://simiraaaa@github.com/simiraaaa/ace-tern.git"
+  },
+  "keywords": [
+    "tern",
+    "ace",
+    "autocomplete"
+  ],
+  "author": "simiraaaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simiraaaa/ace-tern/issues"
+  },
+  "homepage": "https://github.com/simiraaaa/ace-tern#readme",
+  "dependencies": {
+    "ace-editor-builds": "^1.2.0",
+    "tern": "^0.17.0"
+  }
+}
